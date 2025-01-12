@@ -3,7 +3,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #fdf8f4;
+    background-color: #1c1c1b;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -22,7 +22,7 @@ body{
     font-size: 24px;
     text-align: right;
     padding: 10px;
-    border: 1px solid #fdfbfb;
+    border: 1px solid #eee6e6;
     border-radius: 5px;
 }
 
@@ -42,7 +42,7 @@ body{
 }
 
 .btn:active{
-    background-color: rgb(242, 248, 248);
+    background-color: rgb(201, 230, 230);
 }
 
 .operator{
